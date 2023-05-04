@@ -1,6 +1,5 @@
 # AUTOSAR_PORT_DRIVER
 Port Driver based on AUTOSAR layered architecture v4.0.3 for Tiva-C 
-Port driver based on AUTOSAR layered architecture v4.0.3 for Tiva-C
 
 AUTOSAR Port driver based on Tm4c123gh6pm
 -Port driver following AUTOSAR standard 4.3.0 version. -Based on ARM Architecture for TM4C123GH6PM Microcontroller. *Port driver is meant to do the following:
